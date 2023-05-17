@@ -1,0 +1,10 @@
+{
+  "name": "express_type_prisma_boilerplate",
+  "packageManager": "yarn@3.5.1",
+  "devDependencies": {
+    "@yarnpkg/sdks": "^3.0.0-rc.44",
+    "nodemon": "^2.0.22",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  }
+}
